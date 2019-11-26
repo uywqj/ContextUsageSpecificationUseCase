@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dynamicextension:DynamicSpecification xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dynamicextension="http://www.palladiosimulator.org/pcm/dataprocessing/dynamic/0.1/" xmlns:subject="http://www.palladiosimulator.org/pcm/dataprocessing/dynamic/util/subject/0.1/">
+  <subjectContainer>
+    <subject xsi:type="subject:User" id="_Usid8RAyEeqlarC9UjEszg" entityName="user"/>
+    <subject xsi:type="subject:Organisation" id="_8ib08hAyEeqlarC9UjEszg" entityName="org"/>
+  </subjectContainer>
+  <helperContainer>
+    <rolecontainer id="_Ve5vARAyEeqlarC9UjEszg" organisation="_8ib08hAyEeqlarC9UjEszg">
+      <role id="_YLTD1RAyEeqlarC9UjEszg" entityName="high"/>
+      <role id="_YzhhcBAyEeqlarC9UjEszg" entityName="low"/>
+    </rolecontainer>
+  </helperContainer>
+</dynamicextension:DynamicSpecification>

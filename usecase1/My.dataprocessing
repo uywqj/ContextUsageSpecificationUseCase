@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataprocessing:DataSpecification xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:characteristics="http://www.palladiosimulator.org/pcm/dataprocessing/characteristics/0.1/" xmlns:context="http://www.palladiosimulator.org/pcm/dataprocessing/dynamic/context/0.1/" xmlns:dataprocessing="http://www.palladiosimulator.org/pcm/dataprocessing/0.1/">
+  <dataProcessingContainers id="_xAdFKQrEEeqFwvn90rAbVA" entityName="method1"/>
+  <characteristicTypeContainers id="_bKtGKhAwEeqlarC9UjEszg">
+    <characteristicTypes xsi:type="characteristics:EnumCharacteristicType" id="_69x2MBAwEeqlarC9UjEszg" entityName="PrivacyLevel" enum="_p2Ac_RAwEeqlarC9UjEszg"/>
+    <characteristicTypes xsi:type="context:ContextCharacteristicType" id="_kvAcAhAyEeqlarC9UjEszg" entityName="all">
+      <context xsi:type="context:OrganisationContext" id="_Dy5x7hAzEeqlarC9UjEszg" entityName="org">
+        <organisation href="file:/C:/Users/T440s/Praktikum/ContextUsageSpecificationUseCase/usecase1/My.dynamicextension#_8ib08hAyEeqlarC9UjEszg"/>
+      </context>
+      <context xsi:type="context:RoleContext" id="_FMv5sxAzEeqlarC9UjEszg" entityName="high">
+        <role href="file:/C:/Users/T440s/Praktikum/ContextUsageSpecificationUseCase/usecase1/My.dynamicextension#_YLTD1RAyEeqlarC9UjEszg"/>
+      </context>
+      <context xsi:type="context:RoleContext" id="_HYD6sxAzEeqlarC9UjEszg" entityName="low">
+        <role href="file:/C:/Users/T440s/Praktikum/ContextUsageSpecificationUseCase/usecase1/My.dynamicextension#_YzhhcBAyEeqlarC9UjEszg"/>
+      </context>
+      <context xsi:type="context:PrivacyLevelContext" id="_LpxyFRA0EeqxVehm50TVtw" level="_w8ILEBAwEeqlarC9UjEszg"/>
+      <context xsi:type="context:PrivacyLevelContext" id="_PBfUxRA0EeqxVehm50TVtw" level="_wQBTABAwEeqlarC9UjEszg"/>
+    </characteristicTypes>
+    <enumerations id="_p2Ac_RAwEeqlarC9UjEszg" entityName="PrivacyLevel">
+      <literals id="_wQBTABAwEeqlarC9UjEszg" entityName="SECRET"/>
+      <literals id="_w8ILEBAwEeqlarC9UjEszg" entityName="PUBLIC"/>
+    </enumerations>
+  </characteristicTypeContainers>
+  <characteristicContainer id="_QbDskxAwEeqlarC9UjEszg" entityName="method1">
+    <ownedCharacteristics xsi:type="context:ContextCharacteristic" id="_NK68HBAxEeqlarC9UjEszg" characteristicType="_69x2MBAwEeqlarC9UjEszg"/>
+  </characteristicContainer>
+  <relatedCharacteristics id="_xsE1FArEEeqFwvn90rAbVA" entityName="method1" characteristics="_QbDskxAwEeqlarC9UjEszg" relatedEntity="_xAdFKQrEEeqFwvn90rAbVA"/>
+</dataprocessing:DataSpecification>
