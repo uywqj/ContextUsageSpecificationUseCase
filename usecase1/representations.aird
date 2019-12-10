@@ -35,7 +35,7 @@
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.palladiosimulator.editors.sirius.usage/description/usage.odesign#//@ownedViewpoints[name='UsageModel']"/>
       <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_7HXkYwq8Eeq_iMNQnpRAUA" name="new UsageModel Diagram" repPath="#_7EUQYAq8Eeq_iMNQnpRAUA">
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.palladiosimulator.editors.sirius.usage/description/usage.odesign#//@ownedViewpoints[name='UsageModel']/@ownedRepresentations[name='UsageModel%20Diagram']"/>
-        <target xmi:type="usagemodel:UsageModel" href="newUsageModel.usagemodel#/"/>
+        <target xmi:type="usagemodel:UsageModel" href="newUsageModel.usagemodel#/0"/>
       </ownedRepresentationDescriptors>
     </ownedViews>
     <ownedViews xmi:type="viewpoint:DView" uid="_UmKj4ArGEeqFwvn90rAbVA">
@@ -520,7 +520,7 @@
     <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.palladiosimulator.editors.sirius.usage/description/usage.odesign#//@ownedViewpoints[name='UsageModel']/@ownedRepresentations[name='UsageModel%20Diagram']"/>
     <filterVariableHistory xmi:type="diagram:FilterVariableHistory" uid="_7EUQYQq8Eeq_iMNQnpRAUA"/>
     <activatedLayers xmi:type="description_1:Layer" href="platform:/plugin/org.palladiosimulator.editors.sirius.usage/description/usage.odesign#//@ownedViewpoints[name='UsageModel']/@ownedRepresentations[name='UsageModel%20Diagram']/@defaultLayer"/>
-    <target xmi:type="usagemodel:UsageModel" href="newUsageModel.usagemodel#/"/>
+    <target xmi:type="usagemodel:UsageModel" href="newUsageModel.usagemodel#/0"/>
   </diagram:DSemanticDiagram>
   <diagram:DSemanticDiagram uid="_UosTcArGEeqFwvn90rAbVA" name="&lt;BasicComponent1>&lt;method1> SEFF Diagram">
     <ownedAnnotationEntries xmi:type="description:AnnotationEntry" uid="_Uo2EcArGEeqFwvn90rAbVA" source="DANNOTATION_CUSTOMIZATION_KEY">
