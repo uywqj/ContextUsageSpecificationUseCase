@@ -10,7 +10,6 @@
     <semanticResources>newUsageModel.usagemodel</semanticResources>
     <semanticResources>My.dynamicextension</semanticResources>
     <semanticResources>My.dataprocessing</semanticResources>
-    <semanticResources>file:/C:/Users/T440s/Praktikum/ContextUsageSpecificationUseCase/usecase1/My.dynamicextension</semanticResources>
     <ownedViews xmi:type="viewpoint:DView" uid="_sspnQAq8Eeq_iMNQnpRAUA">
       <viewpoint xmi:type="description:Viewpoint" href="platform:/plugin/org.palladiosimulator.editors.sirius.repository/description/repository.odesign#//@ownedViewpoints[name='Repository']"/>
       <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_stpFwwq8Eeq_iMNQnpRAUA" name="new Repository Diagram" repPath="#_stCBwAq8Eeq_iMNQnpRAUA">

@@ -5,13 +5,13 @@
     <characteristicTypes xsi:type="characteristics:EnumCharacteristicType" id="_69x2MBAwEeqlarC9UjEszg" entityName="PrivacyLevel" enum="_p2Ac_RAwEeqlarC9UjEszg"/>
     <characteristicTypes xsi:type="context:ContextCharacteristicType" id="_kvAcAhAyEeqlarC9UjEszg" entityName="all">
       <context xsi:type="context:OrganisationContext" id="_Dy5x7hAzEeqlarC9UjEszg" entityName="org">
-        <organisation href="file:/C:/Users/T440s/Praktikum/ContextUsageSpecificationUseCase/usecase1/My.dynamicextension#_8ib08hAyEeqlarC9UjEszg"/>
+        <organisation href="My.dynamicextension#_8ib08hAyEeqlarC9UjEszg"/>
       </context>
       <context xsi:type="context:RoleContext" id="_FMv5sxAzEeqlarC9UjEszg" entityName="high">
-        <role href="file:/C:/Users/T440s/Praktikum/ContextUsageSpecificationUseCase/usecase1/My.dynamicextension#_YLTD1RAyEeqlarC9UjEszg"/>
+        <role href="My.dynamicextension#_YLTD1RAyEeqlarC9UjEszg"/>
       </context>
       <context xsi:type="context:RoleContext" id="_HYD6sxAzEeqlarC9UjEszg" entityName="low">
-        <role href="file:/C:/Users/T440s/Praktikum/ContextUsageSpecificationUseCase/usecase1/My.dynamicextension#_YzhhcBAyEeqlarC9UjEszg"/>
+        <role href="My.dynamicextension#_YzhhcBAyEeqlarC9UjEszg"/>
       </context>
       <context xsi:type="context:PrivacyLevelContext" id="_LpxyFRA0EeqxVehm50TVtw" level="_w8ILEBAwEeqlarC9UjEszg"/>
       <context xsi:type="context:PrivacyLevelContext" id="_PBfUxRA0EeqxVehm50TVtw" level="_wQBTABAwEeqlarC9UjEszg"/>

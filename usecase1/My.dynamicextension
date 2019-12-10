@@ -9,5 +9,10 @@
       <role id="_YLTD1RAyEeqlarC9UjEszg" entityName="high"/>
       <role id="_YzhhcBAyEeqlarC9UjEszg" entityName="low"/>
     </rolecontainer>
+    <prerequisitecontainer id="_z33HcxsoEeqYg73UEkKpFA">
+      <prerequisite id="_1HJlEBsoEeqYg73UEkKpFA">
+        <prerequisite href="newRepository.repository#_dCtBcAq9Eeq_iMNQnpRAUA"/>
+      </prerequisite>
+    </prerequisitecontainer>
   </helperContainer>
 </dynamicextension:DynamicSpecification>
